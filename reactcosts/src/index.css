@@ -1,14 +1,27 @@
+/*CSS Global*/
 body {
   padding: 50px;
+  padding-bottom: 500px;
   background-color: rgb(70, 64, 44);
 }
 
 h1 {
-  color:black
+  color:rgb(150, 185, 23)
+}
+
+h2 {
+  color:rgb(219, 176, 35)
 }
 
 p {
   background-color: bisque;
   padding: 10px;
   color: blue;
+}
+
+ul {
+  font-size: 30px;
+  color:rgb(179, 25, 84);
+  background-color: #fff;
+  border-radius: 20px;
 }

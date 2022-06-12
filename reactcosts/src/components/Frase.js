@@ -1,3 +1,4 @@
+//CSS modules
 import styles from './Frase.module.css'
 
 function Frase() {
