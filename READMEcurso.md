@@ -1,4 +1,4 @@
-# Projeto ReactCost
+# Projeto ReactCosts
 
 ##  React
 
