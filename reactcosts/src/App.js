@@ -1,5 +1,19 @@
-import HelloWorld from './components/HelloWorld';
 import './App.css';
+import Condicional from './components/Condicional';
+
+function App() {
+  return (
+      <div className="App">
+        <h1>Renderização Condicional</h1>
+        <Condicional />
+      </div>
+  )
+}
+
+export default App
+
+/*
+import HelloWorld from './components/HelloWorld';
 import Pessoa from './components/Pessoa';
 import SayMyName from './components/SayMyName';
 import Frase from './components/Frase';
@@ -18,6 +32,7 @@ function App() {
       <Form />
    </div>
   )
+  */
   /*
   return (
     <div className="App">
@@ -39,6 +54,8 @@ function App() {
     </div>
   )
   */
+ /*
 }
 
 export default App;
+*/
