@@ -14,7 +14,7 @@ h2 {
 }
 
 p {
-  background-color: bisque;
+  background-color: rgb(206, 157, 97);
   padding: 10px;
   color: blue;
 }
@@ -22,6 +22,6 @@ p {
 ul {
   font-size: 30px;
   color:rgb(179, 25, 84);
-  background-color: #fff;
+  background-color: rgb(163, 124, 124);
   border-radius: 20px;
 }

@@ -1,0 +1,16 @@
+.social_List {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+}
+
+.social_List li {
+    margin: 0 1em;
+}
+
+.social_List svg {
+    font-size: 1em;
+    cursor: pointer;
+    color: blue;
+}
