@@ -95,3 +95,9 @@ props na função de definição do compoente;
 * Trocando apenas uma parte do layout da aplicação, ou seja, o que muda de view para view;
 * Precisamos instalar este pacote no projeto;
 * E também realizar algumas mudanças em  como o App é estruturado;
+
+## React Icons
+- O React Icons é um pacote de ícones externo;
+- Precisamos adicionar ao projeto através do npm;
+- Ele nos permite adicionar ícones ao projeto com uma sintaxe parecida a de componentes;
+- Além disso há uma grande quantidade de ícones disponíveis;
